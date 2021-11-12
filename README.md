@@ -9,9 +9,7 @@ Just a collection of simple projects that have helped me learned Python programm
 
 ## To-Do
 * For password generator:
-	+ Add a "Back to Main Menu" function
-	+ Add a "View All Passwords" function to main menu
 	+ Encryption
 * For bulk file renamer:
-	+ Add functionality for file types other than .txt
+	+ Add functionality for different file types
 	+ Add more file-naming options
