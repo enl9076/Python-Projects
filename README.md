@@ -7,3 +7,4 @@ Just a collection of simple projects that have helped me learned Python programm
 * Analysis of a publicy-available dataset
 * Hangman game
 * Weather update desktop notifier
+* Image Resize/Convert/Rename Desktop App
