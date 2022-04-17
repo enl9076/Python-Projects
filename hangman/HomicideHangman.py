@@ -55,6 +55,7 @@ def music_playback(is_on=True):
         mixer.music.load('bg_music.wav')
         lose_sound = mixer.Sound('lose_sound.wav')
         mixer.music.play(-1)
+        return lose_sound 
     elif is_on==False:
         mixer.music.stop()
 
